@@ -1,2 +1,2 @@
 # birthday-wisher
- send an email to friends on their birthdays
+ sends an email to friends on their birthdays
