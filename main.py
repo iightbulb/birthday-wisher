@@ -9,7 +9,7 @@ import random
 def configure():
     load_dotenv()
 
-
+configure()
 today = dt.datetime.now()
 today = (today.month, today.day)
 
